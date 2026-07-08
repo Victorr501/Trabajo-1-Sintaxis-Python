@@ -1,4 +1,4 @@
-readme_content = """# Calculadora de Promedios Escolares
+# Calculadora de Promedios Escolares
 
 Un script interactivo en Python diseñado para gestionar materias y calificaciones escolares mediante la consola. Permite registrar asignaturas, validar notas, calcular el promedio general, filtrar materias aprobadas o reprobadas y encontrar las calificaciones extremas (máxima y mínima).
 
