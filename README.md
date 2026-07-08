@@ -1,4 +1,4 @@
---- Calculadora de Promedios ---
+# --- Calculadora de Promedios ---
 Ingrese el nombre de la materia: Matemáticas
 Ingrese la calificación para Matemáticas (0-10): 8.5
 ¿Desea ingresar otra materia? (s/n): s
@@ -6,7 +6,7 @@ Ingrese el nombre de la materia: Historia
 Ingrese la calificación para Historia (0-10): 4.2
 ¿Desea ingresar otra materia? (s/n): n
 
---- Resumen Final ---
+# --- Resumen Final ---
 Matemáticas: 8.5
 Historia: 4.2
 
